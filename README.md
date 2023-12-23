@@ -1,5 +1,5 @@
 
-#### 为世界上所有的美好而战！May all the beauty be blessed!
+### 为世界上所有的美好而战！May all the beauty be blessed!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarukaTea&show_icons=true&theme=radical)
 
